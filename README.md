@@ -29,7 +29,7 @@
 
 - **Languages**:
     
-     <img src="https://shorturl.at/owzHS" width="40" height="40" />
+     <img src=" https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fc2%2F6a%2F58%2Fc26a58af112f4cad08629893409f32c5.jpg&tbnid=v21ql7VmSRYoiM&vet=12ahUKEwj-sovSosuEAxUGq2MGHUVSC30QMygHegQIARB9..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F820781100839752571%2F&docid=STJ4Icv8K8rQJM&w=3840&h=2160&q=python%20programming%20logo&ved=2ahUKEwj-sovSosuEAxUGq2MGHUVSC30QMygHegQIARB9" width="40" height="40" />
   
 - **Front-End Development**:
 
