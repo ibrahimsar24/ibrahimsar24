@@ -1,100 +1,58 @@
-﻿
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I+am+Ibrahim+Sarguroh" alt="Typing SVG" /></a>
-</p>
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=ibrahimsar24&color=brightgreen" alt="watching_count" />
- </p>
-	
-## <picture><img src = "https://camo.githubusercontent.com/9939f57a40461f1f7d5ee9c81e8f4634eb6a9339f5a3ced15f2ce471bb18b49b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width =40px></picture> **About me**
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello 🙌, I'm Ibrahim Jaweed Sarguroh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Analyst at <a href="https://www.capgemini.com/">Capgemini
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
- <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
-</p>
 
-- 🔭 I’m currently working on SAP project
-- 🌱 I’m currently learning Data Engineering
-- 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about Python
-- 📫 How to reach me: Contact part
-- ⚡ Fun fact: I never thought I would become a  programmer!
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-<p align="center">
-
-- **Languages**:
-    
-     <img src=" https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fc2%2F6a%2F58%2Fc26a58af112f4cad08629893409f32c5.jpg&tbnid=v21ql7VmSRYoiM&vet=12ahUKEwj-sovSosuEAxUGq2MGHUVSC30QMygHegQIARB9..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F820781100839752571%2F&docid=STJ4Icv8K8rQJM&w=3840&h=2160&q=python%20programming%20logo&ved=2ahUKEwj-sovSosuEAxUGq2MGHUVSC30QMygHegQIARB9" width="40" height="40" />
-  
-- **Front-End Development**:
-
-   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
+[![Linkedin: Ibrahim](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-sarguroh/)](https://www.linkedin.com/in/ibrahim-sarguroh/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 
 
 
-- **Softwares and Tools**:
 
-    <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+```javascript
+const ibrahim = {
+    pronouns: "He" | "Him",
+    code: ["SQL", "Javascript", "Python", "Dart", "PowerBI"],
+    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Bootstrap"],
+            uiLibraries: ["Material UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            python: ["Flask"],
+        },
+        mobileApp: {
+            crossPlatform: ["Flutter"],
+        },
+        devOps: ["Docker🐳"],
+        cloudServices: {
+            aws: ["AWS", "EC2", "S3", "Lambda", "RDS"],
+        },
+        databases: ["PostgreSQL", "SQLite"],
+        misc: [ "Cloud Functions"],
+        generativeAI: ["GPT"],
+    },
+    currentFocus: "To improve on my Technical skills and get more exposure on projects",
+    funFact: "I can debug faster with a coffee in hand!"
+};
+```
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
- 
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C875%20hrs%2025%20mins-blue)
 
-<br>
-</p>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-947-blue)
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=ibrahimsar24&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimsar24&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsar24&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-	
-</a>
-</div>
-
-
-
------
-
-<h3 align="center" >Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="https://">
-		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-		<a style="margin-left: 10px;" target="_blank" href="">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="">
-					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
-      </div>
-
-</p>
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
 
 
-	
-
-</div>
-
-
-------
-[Ibrahim Sarguroh](https://github.com/ibrahimsar24)
-Last Edited on: 19/01/2023
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
