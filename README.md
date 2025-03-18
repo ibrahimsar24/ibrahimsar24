@@ -5,8 +5,8 @@
 </em></p>
 
 
-[![Linkedin: Ibrahim](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-sarguroh/)](https://www.linkedin.com/in/ibrahim-sarguroh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![Linkedin: Ibrahim](https://img.shields.io/badge/-Ibrahim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-sarguroh/)](https://www.linkedin.com/in/ibrahim-sarguroh/)
+![GitHub followers](https://github.com/ibrahimsar24)
 
 
 
@@ -46,13 +46,6 @@ const ibrahim = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
----
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C875%20hrs%2025%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-947-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
 
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
