@@ -6,7 +6,7 @@
 
 
 [![Linkedin: Ibrahim](https://img.shields.io/badge/-Ibrahim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-sarguroh/)](https://www.linkedin.com/in/ibrahim-sarguroh/)
-![GitHub followers](https://github.com/ibrahimsar24)
+![GitHub followers](https://img.shields.io/github/followers/ibrahimsar24?label=Followers&style=social)
 
 
 
